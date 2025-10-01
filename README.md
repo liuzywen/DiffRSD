@@ -2,7 +2,7 @@
 
 It has been accepted by TITS.
 
-![]
+![Main](Main.png)
 
 # Abstract
 Rail quality evaluation ensures the safety of railway transportation, where rail surface defect inspection is one of important tasks. Traditional methods adopt encoder-decoder framework, which is difficult to extract discriminative defect features to achieve the integrity of defect inspection. In contrast, we propose DiffRSD, a diffusion-based method which restores the defect mask from a noise conditional on the RGB-D defect image, showing integrity-aware defect inspection ability by the following strategies: (a) superpixel-aware corruption; (b) coarse-to-fine dilation supervision. The first strategy can struggle the model to restore a defect mask from a corrupted mask and make the model rectify the error prediction in the inference stage. The second strategy can locate the defect region in the initial decoding stage and further depict the clear boundary in the later decoding ones. Both strategies improve the performance of defect inspection by experimental verification on NEU RSDDS-AUG RGB-D defect dataset, thus advancing the proposed DiffRSD beyond state-of-the-art methods. The generalization of DiffRSD is further verified by the experiments in RGB rail surface defect inspection dataset and multi-modal pavement crack segmentation dataset. The proposed DiffRSD consistently shows the integrity-aware ability.
