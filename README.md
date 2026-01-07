@@ -25,3 +25,13 @@ Rail quality evaluation ensures the safety of railway transportation, where rail
 # Code
 链接: https://pan.baidu.com/s/11InDVod0glxlmRYQKB-sfw 
 提取码: 28m9 
+
+# Bib
+@article{liu2025diffrsd,
+  title={DiffRSD: Diffusion-Based and Integrity-Aware RGB-D Rail Surface Defect Inspection},
+  author={Liu, Zhengyi and Zhou, Junnan and Huang, Rui and Fang, Xianyong and Tu, Zhengzheng and Wang, Linbo},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2025},
+  pages={22716--22727},
+  publisher={IEEE}
+}
