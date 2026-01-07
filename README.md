@@ -1,7 +1,8 @@
 # DiffRSD: Diffusion-Based and Integrity-Aware RGB-D Rail Surface Defect Inspection
 
-It has been accepted by TITS.
+It has been published by TITS.
 [paper](SurfaceDetR2.pdf)
+DOI: 10.1109/TITS.2025.3617515
 
 ![Main](Main.png)
 
